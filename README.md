@@ -1,5 +1,5 @@
 <img alt="" style="border-width:0" src="https://www.dropbox.com/s/sxe7ozdw18m7kli/banner.png?raw=1">
-## Curso de Introducción a Física Nuclear y Detectores
+## Curso de Introducción a Física de Partículas, Nuclear, Aceleradores y Detectores
 ### Escuela José Antonio Balseiro - Nuevas Tendencias en Investigación en Física Médica
 ### Octubre 2016 - Centro Atómico Bariloche e Instituto Balseiro
 
