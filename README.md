@@ -10,7 +10,7 @@ El curso consta de cuatro clases de aproximadamente tres horas y media cada una,
 * Clase 3: Decaimientos radiactivos. Actividad. Unidades. Tipos de decaimiento y descripción de los principales. Ejemplos de núcleos radiactivos de uso médico e industrial y sus principales líneas de emisión. Física de Aceleradores: principios de funcionamiento y tipos. Sección eficaz y luminosidad. 
 * Clase 4: Interacción de la radiación con la materia: poder de frenado, pico de Bragg, rango, longitud de interacción, energía crítica, coeficientes de atenuación lineal y másico. Características de detectores de uso en física de partículas: fototubos, fotomultiplicadores de silicio, Cherenkov y centelleo.
 
-En las clases se incluyen algunos ejercicios y problemas y bibliografía recomendada.  
+En las clases se incluyen algunos ejercicios y problemas y bibliografía recomendada. Se incluye tambien el código stopping.py (python v2.7) para calcular el pico de Bragg y el rango de partículas cargadas en medios materiales.  
 
 #### (C) 2016 - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
