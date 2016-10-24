@@ -7,7 +7,7 @@ Very simple code to perform numerical integrations of stopping power curves (obt
 
 Original version and further modifications written in perl by Hernán Asorey, Centro Atómico Bariloche, (C) 2012, asoreyh@gmail.com.
 
-New version adapted by Martha Valencia, Universidad Industrial de Santander, (C) 2015.
+New version adapted and improvements by Marta Valencia, Universidad Industrial de Santander, (C) 2015.
 '''
 
 # parameters 
